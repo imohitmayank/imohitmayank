@@ -1,4 +1,4 @@
-## Hi there, it's Mohit Mayank @ [mywebsite][website] 👋. I'm a Data Scientist @ [TCS][company]
+## Hi there, it's Mohit Mayank @ [mywebsite][website] 👋. I'm a Data Scientist @ [AlgoAnalytics][company]
 - 🔭 I’m currently working on creating Cognitive solutions for Enterprise problems!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in Natural Language Processing and Graph Neural Networks.
